@@ -9,7 +9,7 @@ export default function Layout({ children }) {
       <Headers />
 
       <div className="grid grid-cols-1 w-full">
-        <div className="bg-slate-600">{children}</div>
+        <div className="bg-white">{children}</div>
       </div>
 
       {/* if rigth side navbar 
