@@ -5,8 +5,8 @@
 }
 
 #root a{
-    color: rgb(14, 13, 13);
+    color: rgb(90, 88, 88);
 }
 #root a:hover{
-    color: rgb(90, 88, 88);
+    color: black
 }
