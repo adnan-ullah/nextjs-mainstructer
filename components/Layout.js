@@ -8,8 +8,8 @@ export default function Layout({ children }) {
     <div id={styles.rootHead}>
       <Headers />
 
-      <div className="grid grid-cols-1 w-full vh-100">
-        <div className="bg-white-900">{children}</div>
+      <div className="grid grid-cols-1 w-full">
+        <div className="bg-slate-600">{children}</div>
       </div>
 
       {/* if rigth side navbar 

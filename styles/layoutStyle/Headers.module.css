@@ -3,3 +3,10 @@
     text-align: center;
  
 }
+
+#root a{
+    color: rgb(14, 13, 13);
+}
+#root a:hover{
+    color: rgb(90, 88, 88);
+}

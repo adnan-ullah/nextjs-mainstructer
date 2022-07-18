@@ -6,5 +6,6 @@ export default function Footers() {
     <div id={styles.root} className='w-full'>
         <p>Footers</p>
     </div>
+   
   );
 }
