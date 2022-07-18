@@ -1,6 +1,4 @@
-.container {
-  padding: 0 2rem;
-}
+
 
 .main {
   min-height: 100vh;
@@ -10,6 +8,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: fit-content;
 }
 
 .footer {
