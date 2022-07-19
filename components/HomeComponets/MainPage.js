@@ -80,7 +80,7 @@ export default function MainPage() {
         </div>
         </div>
 
-        <div className="relative  items-start">
+        <div className="bg-gray-100 relative  items-start">
           <div className=" grid h-128 grid-cols-2">
 
             <div className="opacity-90 p-10  grid place-content-center">

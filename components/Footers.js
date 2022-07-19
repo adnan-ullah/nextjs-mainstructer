@@ -11,22 +11,22 @@ export default function Footers() {
            <h1 className="text-sm text-gray-900 font-semibold ">YOU CAN ALSO FIND ME HERE.</h1>
             <ul className="mt-10 space-x-10 flex ">
               <li>
-              <Link href='/'>
+              <Link href='https://github.com/adnan-ullah/'>
                 <a ><i className="bi bi-github text-gray-800 text-2xl hover:text-black"></i></a>
               </Link>
               </li>
               <li>
-              <Link href='/'>
+              <Link href='https://www.instagram.com/adnan___ullah/'>
                 <a ><i className="bi bi-instagram text-gray-800 text-2xl hover:text-black"></i></a>
               </Link>
               </li>
               <li>
-              <Link href='/'>
+              <Link href='https://facebook.com/adnan.ullah.99'>
                 <a ><i className="bi bi-facebook text-gray-800 text-2xl hover:text-black"></i></a>
               </Link>
               </li>
               <li>
-              <Link href='/'>
+              <Link href='https://www.linkedin.com/in/adnan-ullah/'>
                 <a ><i className="bi bi-linkedin text-gray-800 text-2xl hover:text-black"></i></a>
               </Link>
               </li>
