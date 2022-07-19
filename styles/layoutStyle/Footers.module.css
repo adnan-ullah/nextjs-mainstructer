@@ -1,15 +1,14 @@
 #root{
-    display: flex;
-    flex: 1;
- 
-    padding: 1rem 0;
+   
+
     justify-content: center;
     align-items: center;
-    background-color: #051e24;
-    border-radius: 300px;
-    height: 15px;
-    bottom: 0%;
-    position: fixed;
+   
+    
+    
+    margin-top: 1rem;
+    bottom: 0;
+     position: relative;
 }
 
 
