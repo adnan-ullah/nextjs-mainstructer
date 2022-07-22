@@ -8,8 +8,8 @@ export default function Footers() {
     <div id={styles.root} className='w-full bg-white'>
         <div className="grid grid-cols-3 ">
           <div className="left-container p-10 h-80 w-full grid place-content-center">
-           <h1 className="text-sm text-gray-900 font-semibold ">YOU CAN ALSO FIND ME HERE.</h1>
-            <ul className="mt-10 space-x-10 flex ">
+           <h1 className="text-xs md:text-sm w-24 md:w-full text-gray-600 font-semibold ">YOU CAN ALSO FIND ME HERE.</h1>
+            <ul className="md:mt-10 md:flex md:space-x-10 md:space-y-0 space-y-3 inline ">
               <li>
               <Link href='https://github.com/adnan-ullah/'>
                 <a ><i className="bi bi-github text-gray-800 text-2xl hover:text-black"></i></a>
@@ -34,7 +34,7 @@ export default function Footers() {
             <p className="mt-10 text-gray-800 text-sm">Powered by Adnan Ullah</p>
 
           </div>
-          <div className="right-container bg-green-300 col-span-2 w-full">
+          <div className="right-container  bg-cyan-200 col-span-2 w-full">
            
           </div>
           
